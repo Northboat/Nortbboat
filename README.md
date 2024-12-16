@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'am Northboat
 
+- 🌱 I’m currently learning lightweight encryption and authentication
+- 👯 I had a great time at Qinhuangdao and now am enjoying my campus life at Xian
+- 📫 I'am friendly most of the time, If you have questions you'd like to discuss with me, you can reach me at the following contact details: northboat@163.com (or TG is fine)
+ 
 <!--
 **northboat/northboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=northboat&show_icons=true&theme=transparent)
+
+<!--![northboat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=northboat)-->
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/northboat/count.svg) visitor, Thank You!
