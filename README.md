@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Page
 
 - 🌱 I’m currently learning Post-Quantum Lightweight Encryption and Authentication
 - 👯 I had a great time at Qinhuangdao and am enjoying my campus life at Xian
