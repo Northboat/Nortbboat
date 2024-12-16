@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning lightweight encryption and authentication
-- 👯 I had a great time at Qinhuangdao and now am enjoying my campus life at Xian
-- 📫 I'am friendly most of the time, If you have questions you'd like to discuss with me, you can reach me at the following contact details: northboat@163.com (or TG is fine)
+- 👯 I had a great time at Qinhuangdao and am enjoying my campus life at Xian
+- 📫 I'am friendly most of the time, you can reach me at northboat@163.com (or TG is fine)
  
 <!--
 **northboat/northboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
