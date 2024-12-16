@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Northboat
+## Hi there 👋
 
 - 🌱 I’m currently learning lightweight encryption and authentication
 - 👯 I had a great time at Qinhuangdao and now am enjoying my campus life at Xian
