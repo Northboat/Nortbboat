@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning lightweight encryption and authentication
+- 🌱 I’m currently learning Post-Quantum Lightweight Encryption and Authentication
 - 👯 I had a great time at Qinhuangdao and am enjoying my campus life at Xian
 - 📫 I'am friendly most of the time, you can reach me at northboat@163.com (or TG is fine)
  
