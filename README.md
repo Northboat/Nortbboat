@@ -3,7 +3,7 @@
 - 🌱 I’m currently researching Post-Quantum Encryption and Lightweight Authentication
 - 👯 I had a great time at Qinhuangdao and am enjoying my campus life at Xian
 - 📫 I'am friendly most of the time, you can reach me via northboat@163.com
-- 🤔 I just wanna looking for a job as a software developer ... after one year or two
+- 🤔 I just wanna looking for a job as a java/golang developer ... after one year or two
  
 <!--
 **northboat/northboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
