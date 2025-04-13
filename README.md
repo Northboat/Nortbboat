@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Northboat
+## Hi there 👋 I'm Arkrypto
 
 - 🌱 I’m currently researching Post-Quantum Encryption and Lightweight Authentication
 - 👯 I had a great time at Qinhuangdao and am enjoying my campus life at Xian
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=northboat&show_icons=true&theme=transparent)
+![Repository Stats](https://github-readme-stats.vercel.app/api?username=arkrypto&show_icons=true&theme=transparent)
 
 <!--![northboat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=northboat)-->
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/northboat/count.svg) visitor, Thank You!
+You are my ![Visitor Count](https://profile-counter.glitch.me/arkrypto/count.svg) visitor, Thank You!
